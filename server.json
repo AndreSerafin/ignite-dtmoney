@@ -1,0 +1,73 @@
+{
+    "transactions": [
+        {
+            "id":1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 18000.50,
+            "createdAt": "2023-05-19T11:44:18.517Z"
+        },
+        {
+            "id": 2,
+            "description": "Comprar livro",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 25.99,
+            "createdAt": "2023-05-18T09:12:30.123Z"
+        },
+            
+        {
+            "id": 3,
+            "description": "Aluguel do apartamento",
+            "type": "outcome",
+            "category": "Moradia",
+            "price": 1200,
+            "createdAt": "2023-05-15T15:27:45.890Z"
+        },
+            
+        {
+            "id": 4,
+            "description": "Salário",
+            "type": "income",
+            "category": "Trabalho",
+            "price": 2500,
+            "createdAt": "2023-05-10T08:00:00.000Z"
+        },
+            
+        {
+            "id": 5,
+            "description": "Viagem de férias",
+            "type": "outcome",
+            "category": "Lazer",
+            "price": 3500.75,
+            "createdAt": "2023-05-05T16:30:20.789Z"
+        },
+        {
+            "id": 6,
+            "description": "Compra de mantimentos",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 150.25,
+            "createdAt": "2023-05-19T14:20:10.321Z"
+            },
+                
+        {
+            "id": 7,
+            "description": "Concerto do carro",
+            "type": "outcome",
+            "category": "Transporte",
+            "price": 500,
+            "createdAt": "2023-05-18T10:55:55.000Z"
+        },
+                
+        {
+            "id": 8,
+            "description": "Aulas de dança",
+            "type": "outcome",
+            "category": "Hobby",
+            "price": 200,
+            "createdAt": "2023-05-16T18:40:05.987Z"
+        }
+    ]
+}
