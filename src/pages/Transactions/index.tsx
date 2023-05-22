@@ -12,7 +12,6 @@ import { dateFormatter, priceFormatter } from '../../utils/formatter'
 
 export function Home() {
   const { transactions } = useContext(TransactionsContext)
-  console.log(transactions)
   return (
     <>
       <Summary />
